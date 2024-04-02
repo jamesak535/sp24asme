@@ -8,5 +8,6 @@ Required libraries:
 - RGB by WILMOUTH Steven
 
 Make sure:
+- You have downloaded "Arduino megaAVR Boards" from boards manager
 - The board is set to "Arduino Nano Every"
 - The port is set to "dev/cu/usbmodem14301 (Arduino Nano Every)"
