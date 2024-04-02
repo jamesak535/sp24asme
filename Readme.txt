@@ -9,4 +9,4 @@ Required libraries:
 
 Make sure:
 - The board is set to "Arduino Nano Every"
-- The port is set to "dev/cu/usbmodem14301 (Arduino Nano Every)
+- The port is set to "dev/cu/usbmodem14301 (Arduino Nano Every)"
