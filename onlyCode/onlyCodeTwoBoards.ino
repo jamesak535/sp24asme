@@ -90,7 +90,7 @@ void loop() {
     if (rpm < rpmVals[row2]) {
       for (int col = 0; col < 8; col++) {
         ledsLeft[row2 * 8 + col] = CRGB::Black; // reset the necessary rows before re-lighting
-         ledsRight[row * 8 + col] = CRGB::Black;
+         ledsRight[row2 * 8 + col] = CRGB::Black;
       }
       FastLED.show();
     } 
